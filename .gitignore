@@ -1,0 +1,14 @@
+# Ignore .env files (contains sensitive information)
+.env
+
+# Ignore other common sensitive files
+*.log
+*.bak
+*.swp
+
+# Ignore node_modules folder (if applicable)
+node_modules/
+
+# ignore this files
+data_build_up.py
+tempCodeRunnerFile.py
